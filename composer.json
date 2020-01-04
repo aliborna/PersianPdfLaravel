@@ -3,6 +3,7 @@
     "description": "pdf package with support of farsi chars",
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "license": "MIT",
     "authors": [
         {
             "name": "Aliborna",
