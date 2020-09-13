@@ -32,7 +32,7 @@ class PersianPdf
             $this->TCPDF->setLanguageArray(config('PersianPdfConfig'));
 
 
-            $this->TCPDF->SetFont('dejavusans', '', 12);
+            $this->TCPDF->SetFont('bnazanin', '', 16);
 
             $this->TCPDF->AddPage();
 
